@@ -1,0 +1,11 @@
+{
+  "name": "youtube-speed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "popup.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
